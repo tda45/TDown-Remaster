@@ -1,6 +1,6 @@
-title: Media Downloader
+title: TDown Remaster
 description: A frontend to yt-dlp, gallery-dl, lux and stvplay-dl.
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-cayman
 
 gems:
